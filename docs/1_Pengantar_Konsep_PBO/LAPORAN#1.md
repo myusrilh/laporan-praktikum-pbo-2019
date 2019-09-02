@@ -15,11 +15,11 @@ Untuk keseluruhan dalam menyelesaikan problem yang diberikan dosen tidak ada mas
 
 Percobaan pertama ini menerapkan konsep pbo paling sederhana. Terdapat atribut yang terenkapsulasi secara private. namun untuk methodnya public semua.
 
-![percobaan sepeda](img/Ss_1_spd.jpg)
+![percobaan sepeda](img/Ss_1_spd.JPG)
 
 link kode program Sepeda: [this link](../../src/1_Pengantar_Konsep_PBO/sepedademo/Sepeda1841720184Yusril.java)
 
-![percobaan sepeda demo](img/Ss_1_spddemo.jpg)
+![percobaan sepeda demo](img/Ss_1_spddemo.JPG)
 
 link kode program Main : [this link](../../src/1_Pengantar_Konsep_PBO/sepedademo/SepedaDemo1841720184Yusril.java)
 ### Percobaan 2
@@ -27,11 +27,11 @@ link kode program Main : [this link](../../src/1_Pengantar_Konsep_PBO/sepedademo
 pada percobaan kali ini keseluruhan kode program sama dengan percobaan pertama, hanya saja ditambah dengan penerapan aspek inheritance.
 
 
-![percobaan sepeda gunung 1](img/spdgunung_1.jpg)
+![percobaan sepeda gunung 1](img/spdgunung_1.JPG)
 
 link kode program Sepeda Gunung: [this link](../../src/1_Pengantar_Konsep_PBO/sepedademo/SepedaGunung1841720184Yusril.java)
 
-![percobaan sepeda gunung main](img/spdgunung_2.jpg)
+![percobaan sepeda gunung main](img/spdgunung_2.JPG)
 
 link kode program Sepeda Gunung Main: [this link](../../src/1_Pengantar_Konsep_PBO/sepedademo/SepedaDemo1841720184Yusril.java)
 
@@ -40,13 +40,13 @@ link kode program Sepeda Gunung Main: [this link](../../src/1_Pengantar_Konsep_P
 Saya mencoba double extend untuk SepedaGunung dengan membuat SepedaGunungHimalaya sebagai turunan/inherit dari SepedaGunung
 
 ![Screenshot coba 1](img/doubleextendscoba.png)
-![Screenshot coba 2](img/doubleextendscoba_2.jpg)
-![Screenshot coba 2](img/doubleextendscoba_3.jpg)
+![Screenshot coba 2](img/doubleextendscoba_2.JPG)
+![Screenshot coba 2](img/doubleextendscoba_3.JPG)
 
 Untuk percobaan pertama ini memunculkan error dan mengharuskan membuat file di package `Test Packages`
 
-![Screenshot coba 3](img/cobaextendslagi.jpg)
-![Screenshot coba 4](img/cobaextendslagi_2.jpg)
+![Screenshot coba 3](img/cobaextendslagi.JPG)
+![Screenshot coba 4](img/cobaextendslagi_2.JPG)
 
 Untuk percobaan kedua ini baru berhasil, karena saya hanya extend object yang sebelumnya sudah extend object induk. untuk pemanggilan dari inherit terakhir ke induk sama dengan pemanggilan inherit pertama ke induk, yaitu dengan super.
 
@@ -69,7 +69,7 @@ Untuk percobaan kedua ini baru berhasil, karena saya hanya extend object yang se
     - gear
 
 5. Screenshot tambah method warna
-![Screenschot method warna](img/warna.jpg)
+![Screenschot method warna](img/warna.JPG)
 
 ## Tugas
 
