@@ -78,13 +78,13 @@ masing- masing wisata memiliki harga tiket masuk(htm) berbeda dan dicetak pada s
 
 Kedua wisata memiliki atribut nama lokasi wisata masing-masing. 
 
-![sc_1](img/tugas/tugas_1.jpg)
+![sc_1](img/tugas/tugas_1.JPG)
 Ini link screenshot 1: [Link ini](../../src/1_Pengantar_Konsep_PBO/tugas/WisataMain1841720184Yusril.java)
-![sc_2](img/tugas/tugas_2.jpg)
+![sc_2](img/tugas/tugas_2.JPG)
 Ini link screenshot 2: [Link ini](../../src/1_Pengantar_Konsep_PBO/tugas/Wisata1841720184Yusril.java)
-![sc_3](img/tugas/tugas_3.jpg)
+![sc_3](img/tugas/tugas_3.JPG)
 Ini link screenshot 3: [Link ini](../../src/1_Pengantar_Konsep_PBO/tugas/Pantai1841720184Yusril.java)
-![sc_4](img/tugas/tugas_4.jpg)
+![sc_4](img/tugas/tugas_4.JPG)
 Ini link screenshot 4: [Link ini](../../src/1_Pengantar_Konsep_PBO/tugas/Gunung1841720184Yusril.java)
 
 ## Kesimpulan
