@@ -43,4 +43,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-Muhammad Yusril Hasriansyah
+***Muhammad Yusril Hasriansyah***
