@@ -18,9 +18,12 @@ Materi enkapsulasi digunakan untuk membuat kode program lebih mudah dipahami ole
 ### Percobaan 1
 
 
-1. berikut adalah uml motor dari kode program saya ![uml motor](img/umlmotor.png)
+1. berikut adalah uml motor dari kode program saya
+
+![uml motor](img/umlmotor.png)
 
 2. berikut hasil screenshot percobaan motor dari modul:
+
 ![percobaan motor main](img/percobaan1main.JPG) 
 
 untuk kode programnya akan saya cantumkan di pertanyaan nomor 3 pada percobaan 2, karena dalam percobaan 2 ada sedikit modifikasi dari kode program percobaan 1
@@ -52,11 +55,12 @@ public void tambahKecepatanYusril() {
         }
     }
 ________________________________________________________
+
 Main program: ![hasil menjalankan kode program terbaru](img/pertanyaan3main.JPG)
 [link main](../../src/3_Enkapsulasi/MotorDemo1841720184Yusril.java)
 
 Non-Main Program: ![bukan main](img/pertanyaan3bukanmain.JPG)
-[link main](../../src/3_Enkapsulasi/Motor1841720184Yusril.java)
+[link bukan main](../../src/3_Enkapsulasi/Motor1841720184Yusril.java)
 
 ### Percobaan 3
 
@@ -95,7 +99,9 @@ Bukan Main Program: [link kode bukan main](../../src/3_Enkapsulasi/Anggota184172
 
 6. boleh saja, tetapi konstruktor tidak akan bisa diakses dari luar class tersebut.
 
-bukti: ![private konstruktor](img/privatekonstruktor.JPG)
+bukti: 
+
+![private konstruktor](img/privatekonstruktor.JPG)
 
 ![private konstruktor](img/privatekonstruktormain.JPG)
 
@@ -112,6 +118,7 @@ Dengan menggunakan metode enkapsulasi, kita bisa mengatur mana atribut atau meth
 ## Tugas
     
   1. 
+  
   ![tugas pertama](img/tugas1.JPG)
 
   Link ke kode program: 
@@ -151,11 +158,13 @@ Dengan menggunakan metode enkapsulasi, kita bisa mengatur mana atribut atau meth
     }
 
 Link ke kode program:
+
 [Main link](../../src/3_Enkapsulasi/EncapTest1841720184Yusril.java)
 
 [Bukan Main link](../../src/3_Enkapsulasi/EncapDemo1841720184Yusril.java)
 
    4. 
+
    ![tugas 4](img/tugas4.JPG)
    
    5. Modifikasi method angsur soal no.4:
