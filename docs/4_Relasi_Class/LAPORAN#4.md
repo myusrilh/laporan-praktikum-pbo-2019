@@ -219,7 +219,7 @@ Saya membuat Sistem Rumah Sakit yang terdiri dari 4 Class yaitu, **Rumah Sakit**
 
 
 UML Diagram:
-![UML]()
+![UML](img/UMLRStugas.png)
 
 
 Hasil Screenshot:     
