@@ -37,13 +37,13 @@ pada percobaan ini memanfaatkan kedua pokok bahasan pada materi ini, yaitu **Ove
 
 Link Kode Program:
 
-- [Main Program](../../src\7_Overriding_dan_Overloading\overridingandoverloading\prakjs7smt3\Utama1841720184Yusril.java)
+- [Main Program](../../src/7_Overriding_dan_Overloading/overridingandoverloading/prakjs7smt3/Utama1841720184Yusril.java)
 
-- [Karyawan](../../src\7_Overriding_dan_Overloading\overridingandoverloading\prakjs7smt3\Karyawan1841720184Yusril.java)
+- [Karyawan](../../src/7_Overriding_dan_Overloading/overridingandoverloading/prakjs7smt3/Karyawan1841720184Yusril.java)
 
-- [Manager](../../src\7_Overriding_dan_Overloading\overridingandoverloading\prakjs7smt3\Manager1841720184Yusril.java)
+- [Manager](../../src/7_Overriding_dan_Overloading/overridingandoverloading/prakjs7smt3/Manager1841720184Yusril.java)
 
-- [Staff](../../src\7_Overriding_dan_Overloading\overridingandoverloading\prakjs7smt3\Staff1841720184Yusril.java)
+- [Staff](../../src/7_Overriding_dan_Overloading/overridingandoverloading/prakjs7smt3/Staff1841720184Yusril.java)
 ## Latihan
 1. overloading terdapat pada method perkalian, lebih tepatnya
 
@@ -85,9 +85,9 @@ Tugas yang pertama ini memanfaatkan overloading
 
 Link Kode Program:
 
-- [Segitiga](../../src\7_Overriding_dan_Overloading\overridingandoverloading2\overloading\tugasjs7smt3\Segitiga1841720184Yusril.java)
+- [Segitiga](../../src/7_Overriding_dan_Overloading/overridingandoverloading2/overloading/tugasjs7smt3/Segitiga1841720184Yusril.java)
 
-- [Main Segitiga](../../src\7_Overriding_dan_Overloading\overridingandoverloading2\overloading\tugasjs7smt3\MainSegitiga1841720184Yusril.java)
+- [Main Segitiga](../../src/7_Overriding_dan_Overloading/overridingandoverloading2/overloading/tugasjs7smt3/MainSegitiga1841720184Yusril.java)
 
 ### Overriding
 
@@ -95,13 +95,13 @@ Link Kode Program:
 
 Link kode program:
 
-- [Manusia](../../src\7_Overriding_dan_Overloading\overridingandoverloading2\overriding\tugasjs7smt3\Manusia1841720184Yusril.java)
+- [Manusia](../../src/7_Overriding_dan_Overloading/overridingandoverloading2/overriding/tugasjs7smt3/Manusia1841720184Yusril.java)
 
-- [Dosen](../../src\7_Overriding_dan_Overloading\overridingandoverloading2\overriding\tugasjs7smt3\Dosen1841720184Yusril.java)
+- [Dosen](../../src/7_Overriding_dan_Overloading/overridingandoverloading2/overriding/tugasjs7smt3/Dosen1841720184Yusril.java)
 
-- [Mahasiswa](../../src\7_Overriding_dan_Overloading\overridingandoverloading2\overriding\tugasjs7smt3\Mahasiswa1841720184Yusril.java)
+- [Mahasiswa](../../src/7_Overriding_dan_Overloading/overridingandoverloading2/overriding/tugasjs7smt3/Mahasiswa1841720184Yusril.java)
 
-- [Main Manusia](../../src\7_Overriding_dan_Overloading\overridingandoverloading2\overriding\tugasjs7smt3\MainManusia1841720184Yusril.java)
+- [Main Manusia](../../src/7_Overriding_dan_Overloading/overridingandoverloading2/overriding/tugasjs7smt3/MainManusia1841720184Yusril.java)
 
 ## Kesimpulan
 
