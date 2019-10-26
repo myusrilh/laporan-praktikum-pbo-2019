@@ -1,4 +1,4 @@
-# Laporan Praktikum #6 - Pengantar Konsep PBO
+# Laporan Praktikum #6 - Inheritance
 
 ## Kompetensi
 1. Memahami konsep dasar inheritance atau pewarisan.
