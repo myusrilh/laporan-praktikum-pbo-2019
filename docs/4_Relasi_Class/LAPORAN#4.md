@@ -1,4 +1,4 @@
-# Laporan Praktikum #4 - Pengantar Konsep PBO
+# Laporan Praktikum #4 - Relasi Class
 
 ## Kompetensi
 Setelah menempuh pokok bahasan ini, mahasiswa mampu:
