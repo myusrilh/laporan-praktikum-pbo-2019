@@ -86,7 +86,7 @@ d. hasil modifikasi
 - [Sarjana](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\Sarjana1841720184Yusril.java)
 - [Pasca Sarjana](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\PascaSarjana1841720184Yusril.java)
 - [Rektor](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\Rektor1841720184Yusril.java)
-- [ICumlaude](..\..src\9_Abstract_Class_dan_Interface\interfacelatihan\ICumlaude1841720184Yusril.java)
+- [ICumlaude](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\ICumlaude1841720184Yusril.java)
 
 ### Multiple Interfaces Implementation
 
