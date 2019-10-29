@@ -1,4 +1,4 @@
-# Laporan Praktikum #2 - Pengantar Konsep PBO
+# Laporan Praktikum #2 - Class and Object
 
 ## Kompetensi
 
