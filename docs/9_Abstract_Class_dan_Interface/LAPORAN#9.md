@@ -55,11 +55,11 @@ Bukti (muncul error):
 
 #### Kode Program
 
-- [Main Program](..\..\src\9_Abstract_Class_dan_Interface\abstractclass\Program1841720184Yusril.java)
-- [Hewan](..\..\src\9_Abstract_Class_dan_Interface\abstractclass\Hewan1841720184Yusril.java)
-- [Orang](..\..\src\9_Abstract_Class_dan_Interface\abstractclass\Orang1841720184Yusril.java)
-- [Kucing](..\..\src\9_Abstract_Class_dan_Interface\abstractclass\Kucing1841720184Yusril.java)
-- [Ikan](..\..\src\9_Abstract_Class_dan_Interface\abstractclass\Ikan1841720184Yusril.java)
+- [Main Program](../../src/9_Abstract_Class_dan_Interface/abstractclass/Program1841720184Yusril.java)
+- [Hewan](../../src/9_Abstract_Class_dan_Interface/abstractclass/Hewan1841720184Yusril.java)
+- [Orang](../../src/9_Abstract_Class_dan_Interface/abstractclass/Orang1841720184Yusril.java)
+- [Kucing](../../src/9_Abstract_Class_dan_Interface/abstractclass/Kucing1841720184Yusril.java)
+- [Ikan](../../src/9_Abstract_Class_dan_Interface/abstractclass/Ikan1841720184Yusril.java)
 
 ### Interface
 
@@ -81,12 +81,12 @@ d. hasil modifikasi
 
 #### Kode Program
 
-- [Main Program](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\Program1841720184Yusril.java)
-- [Mahasiswa](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\Mahasiswa1841720184Yusril.java)
-- [Sarjana](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\Sarjana1841720184Yusril.java)
-- [Pasca Sarjana](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\PascaSarjana1841720184Yusril.java)
-- [Rektor](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\Rektor1841720184Yusril.java)
-- [ICumlaude](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\ICumlaude1841720184Yusril.java)
+- [Main Program](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/Program1841720184Yusril.java)
+- [Mahasiswa](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/Mahasiswa1841720184Yusril.java)
+- [Sarjana](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/Sarjana1841720184Yusril.java)
+- [Pasca Sarjana](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/PascaSarjana1841720184Yusril.java)
+- [Rektor](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/Rektor1841720184Yusril.java)
+- [ICumlaude](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/ICumlaude1841720184Yusril.java)
 
 ### Multiple Interfaces Implementation
 
@@ -97,13 +97,13 @@ Pada percobaan ini memanfaatkan interface lebih dari satu pada saat _impelements
 
 #### Kode Program
 
-- [Main Program](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\Program1841720184Yusril.java)
-- [Mahasiswa](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\Mahasiswa1841720184Yusril.java)
-- [Sarjana](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\Sarjana1841720184Yusril.java)
-- [Pasca Sarjana](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\PascaSarjana1841720184Yusril.java)
-- [Rektor](..\..\src\9_Abstract_Class_dan_Interface\interfacelatihan\Rektor1841720184Yusril.java)
-- [ICumlaude](..\..src\9_Abstract_Class_dan_Interface\interfacelatihan\ICumlaude1841720184Yusril.java)
-- [IBerprestasi](..\..src\9_Abstract_Class_dan_Interface\interfacelatihan\IBerprestasi1841720184Yusril.java)
+- [Main Program](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/Program1841720184Yusril.java)
+- [Mahasiswa](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/Mahasiswa1841720184Yusril.java)
+- [Sarjana](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/Sarjana1841720184Yusril.java)
+- [Pasca Sarjana](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/PascaSarjana1841720184Yusril.java)
+- [Rektor](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/Rektor1841720184Yusril.java)
+- [ICumlaude](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/ICumlaude1841720184Yusril.java)
+- [IBerprestasi](../../src/9_Abstract_Class_dan_Interface/interfacelatihan/IBerprestasi1841720184Yusril.java)
 ## Kesimpulan
 
  Kesimpulan dari praktikum tersebut adalah untuk class abstraksi bisa dipanggil dengan kata kunci _extends_ seperti inheritance sedangkan untuk class interface menggunakan _implements_. Pada class abstract bisa berisi atribut dan method, sedangkan interface hanya bisa berisi method abstract tanpa body.
