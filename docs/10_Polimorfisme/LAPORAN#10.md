@@ -98,7 +98,7 @@ Pada percobaan keempat kali ini mencoba untuk bereksperimen dengna **argumen pol
 ## Tugas
 Tugas kali ini membuat game tentang zombie dengan memanfaatkan inheritance, polimorfisme, abstract dan interface
 
-![hasil tugas](img/hasil_tugas.PNG)
+![hasil tugas](img/hasil_tugas.png)
 
 ### Kode Program
 
