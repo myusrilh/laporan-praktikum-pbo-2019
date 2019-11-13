@@ -105,7 +105,8 @@ Tugas kali ini mmebuat kalkulator sederhana.
 
 ### Kode Program
 
-- [Kalkulator](../../src/10_Polimorfisme/tugaszombiejs10/Tester1841720184Yusril.java)
+- [Kalkulator Java](../../src/11_GUI/Kalkulator1841720184Yusril.java)
+- [Kalkulator Form](../../src/11_GUI/Kalkulator1841720184Yusril.form)
 
 
 ## Kesimpulan
