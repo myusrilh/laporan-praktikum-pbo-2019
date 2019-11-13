@@ -20,12 +20,9 @@ Percobaan pertama ini hanya membuat frame sederhana.
 
 #### Kode Program
 
-- [Tester 1](../../src/10_Polimorfisme/Tester11841720184Yusril.java)
-- [Permanent Employee](../../src/10_Polimorfisme/PermanentEmployee1841720184Yusril.java)
-- [Employee](../../src/10_Polimorfisme/Employee1841720184Yusril.java)
-- [Payable](../../src/10_Polimorfisme/Payable1841720184Yusril.java)
-- [Internship Employee](../../src/10_Polimorfisme/InternshipEmployee1841720184Yusril.java)
-- [Electricity Bill](../../src/10_Polimorfisme/ElectricityBill1841720184Yusril.java)
+- [Hello Gui](../../src/11_GUI/HelloGui1841720184Yusril.java)
+
+
 
 ### Percobaan 2
 Percobaan kedua ini adalah mengenai inputan pada GUI, baik cara _setting_ ***textfield*** nya hingga cara mengambil data dari inputan pada textfield tersebut.
@@ -39,7 +36,10 @@ Berikut adalah hasil modifikasi dari kode program diatas.
 
 #### Kode Program
 
-- [Tester 2](../../src/10_Polimorfisme/Tester21841720184Yusril.java)
+- [My Input Form](../../src/11_GUI/MyInputForm1841720184Yusril.java)
+- [Main Program](../../src/11_GUI/MainProgram1841720184Yusril.java)
+
+
 
 ### Percobaan 3
 Percobaan ketiga ini adalah melakukan manajemen pada layout GUI, yaitu mengatur posisi dan ukuran dari layout. Terdapat tiga macam layout pada GUI  yaitu **Box**, **Grid**, dan **Border**
@@ -56,7 +56,10 @@ Percobaan ketiga ini adalah melakukan manajemen pada layout GUI, yaitu mengatur 
 
 #### Kode Program
 
-- [Tester 3](../../src/10_Polimorfisme/Tester31841720184Yusril.java)
+- [Box](../../src/11_GUI/Box1841720184Yusril.java)
+- [Grid](../../src/11_GUI/Grid1841720184Yusril.java)
+- [Border](../../src/11_GUI/Border1841720184Yusril.java)
+- [Layout GUI](../../src/11_GUI/LayoutGUI1841720184Yusril.java)
 
 ### Percobaan 4
 
@@ -71,6 +74,10 @@ percobaan keempat ini adalah memanfaatkan GUI secara langsung dengan kombinasi s
 
 3. hasil modifikasi:
 ![ss hasil 4 modif](img/hasil_4_modif.png)
+
+#### Kode Program
+- [Swing Java](../../src/11_GUI/Swing1841720184Yusril.java)
+- [Swing Form](../../src/11_GUI/Swing1841720184Yusril.form)
 
 ### Percobaan 5
 Percobaan terakhir ini adalah memanfaatkan panel tab.
@@ -87,6 +94,10 @@ Percobaan terakhir ini adalah memanfaatkan panel tab.
 - Halaman Kedua
 ![modif 2](img/hasil_5_modif_2.png)
 
+### Kode Program
+- [Swing 2 Java](../../src/11_GUI/Swing21841720184Yusril.java)
+- [Swing 2 Form](../../src/11_GUI/Swing21841720184Yusril.form)
+
 ## Tugas
 Tugas kali ini mmebuat kalkulator sederhana.
 
@@ -94,19 +105,12 @@ Tugas kali ini mmebuat kalkulator sederhana.
 
 ### Kode Program
 
-- [Tester](../../src/10_Polimorfisme/tugaszombiejs10/Tester1841720184Yusril.java)
-- [Plant](../../src/10_Polimorfisme/tugaszombiejs10/Plant1841720184Yusril.java)
-- [Zombie](../../src/10_Polimorfisme/tugaszombiejs10/Zombie1841720184Yusril.java)
-- [Walking Zombie](../../src/10_Polimorfisme/tugaszombiejs10/WalkingZombie1841720184Yusril.java)
-- [Jumping Zombie](../../src/10_Polimorfisme/tugaszombiejs10/JumpingZombie1841720184Yusril.java)
-- [Destroyable](../../src/10_Polimorfisme/tugaszombiejs10/Destroyable1841720184Yusril.java)
-- [Barrier](../../src/10_Polimorfisme/tugaszombiejs10/Barrier1841720184Yusril.java)
-
+- [Kalkulator](../../src/10_Polimorfisme/tugaszombiejs10/Tester1841720184Yusril.java)
 
 
 ## Kesimpulan
 
-Polimorfisme bisa dilakukan asalkan subclass sudah mengextends superclass (class biasa maupun abstract class) maupun implements satu atau lebih interface. Sebuha objek subclass bisa berubah tipe data menjadi superclass dengan cara upcasting dan sebaliknya objek dari superclass juga bisa downcast menjadi bertipe data subclass. Ketik terjadi casting dan memanggil method pada objek tersebut maka method yang tampil adalah method pada class setelah casting. 
+GUI merupakan interface yang mempermudah user untuk berinteraksi dengan koputer. Pembuatan GUI bisa menggunakan GUI Layout atau dengan Native Code. GUI pada java memanfaatkan library swing yang merupakan turunan dari library awt.
 
 ## Pernyataan Diri
 
