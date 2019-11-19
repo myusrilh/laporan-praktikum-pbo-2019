@@ -1,22 +1,36 @@
-# Laporan Praktikum #11 - GUI
+# Laporan Praktikum #12 - GUI
 
 ## Kompetensi
-Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
-1. Membuat aplikasi Graphical User Interface sederhana dengan bahasa pemrograman java;
-2. Mengenal komponen GUI seperti frame, label, textfield, combobox, radiobutton, checkbox,
-textarea, menu, serta table;
-3. Menambahkan event handling pada aplikasi GUI.
+* Memahami cara penyimpanan objek menggunakan Collection dan Map.
+* Mengetahui pengelompokan dari Collection.
+* Mengetahui perbedaan dari interface Set, List dan Map.
+* Mengetahui penggunaan class-class dari interface Set, List, dan Map.
+* Memahami koneksi database menggunakan JDBC dan JDBC API
 
 ## Ringkasan Materi
 
-GUI (_Graphical User Interface_) menurut sepemahaman saya adalah bentuk desain dari program yang telah dibuat sebelumnya, fungsinya untuk mempermudah user menggunakan aplikasi tersebut. Sehingga user tidak perlu membaca ribuan baris kode saat menggunakan aplikasi tersebut.
+Collection adalah sebuah objek yang digunakan untuk menyimpan sekumpulan objek. Bisa berupa objek yang berbeda beda tipe data. Terdapat tiga macam collection, yaitu **Set**,**List** dan **Map**. Untuk **Collection Set** objeknya harus bersifat unik, dengan kata lain harus berbeda satu sama lain. Jika ada yang sama maka ketika dimunculkan hanya salah satu yang dimunculkan. Untuk **Collection List**  bisa menerima duplikat. Cara penyimpanannya seperti array namun Array. dan untuk **Collection Map** dia menyimpan seperti array juga hanya saja memanfaatkan key dan value.
+
+Ada juga untuk penerapan API memanfaatkan JDBC API (Java Database Connectivity API). Beberapa fungsi dari JDBC adalah: 
+- Membangun koneksi antara aplikasi Java dan database
+- Membangun dan mengeksekusi query
+- Memproses hasil
 
 ## Praktikum
 ### Percobaan 1
-Percobaan pertama ini hanya membuat frame sederhana.
+Untuk percobaan ini melakukan percobaan mengenai HashSet, yaitu penampungan nilai yang berbeda tipe data dan tidak berduplikat. Saya juga mencoba menjalankan perintah TreeSet pada percobaan ini, hasilnya untuk pemunculan data pada TreeSet tampil secara terurut.
 
 ![skrinsut hasil 1](img/hasil_1.png)
- 
+
+#### Pertanyaan
+1. Fungsi _import java.util.*_ adalah meng-*import* library java.util yang kemudian bisa mengimplementasikan method atau method yang bisa diakses dari library tersebut.
+
+2. Pada kode program `Set mSetCity = new HashSet();`
+
+3. Untuk menambahkan objek pada HashSet yang objek tersebut bernama **Malang**, **Banyuwangi**, **Jogjakarta**, dan **Batu**.
+
+4. Terjadi error karena objek dipanggil (`set`) belum diinstansiasi.
+
 
 #### Kode Program
 
