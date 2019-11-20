@@ -143,16 +143,6 @@ Hasil setelah penambahan method ambil_data_tabel():
 - [Form Koneksi (Form)](../../src/12_Java_API/yusril/FormKoneksi1841720184Yusril.form)
 - [Form Koneksi (Java)](../../src/12_Java_API/yusril/FormKoneksi1841720184Yusril.java)
 
-## Tugas
-Tugas kali ini mmebuat kalkulator sederhana.
-
-![hasil tugas](img/hasil_tugas.png)
-
-### Kode Program
-
-- [Kalkulator Java](../../src/11_GUI/Kalkulator1841720184Yusril.java)
-- [Kalkulator Form](../../src/11_GUI/Kalkulator1841720184Yusril.form)
-
 
 ## Kesimpulan
 
